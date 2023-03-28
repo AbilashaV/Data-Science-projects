@@ -41,3 +41,8 @@ My Tableau Public account -----> [go to Tableau..](https://public.tableau.com/ap
 * [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/4c92618f0fda4ce2846a58da36e28bca) (Jan 2022) (edX - HarvardX)
 * [Introduction to Data Science](https://courses.edx.org/certificates/6ef218871747425ca36414d133d3c99b) (Sept 2022) (edX - IBM)
 * [SQL for Data Science](https://courses.edx.org/certificates/cfa0069c4a1a481c9fd4f2176b5e4b1d) (Oct 2022) (edX - IBM)
+
+## Contacts
+
+* LinkedIn: [@AV](https://www.linkedin.com/in/abilashavediappan/)
+* Email: abilasha.vedhi@gmail.com
