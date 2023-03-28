@@ -19,4 +19,14 @@ View/Download my Resume : [Abilasha Vediappan](https://github.com/AbilashaV/abil
 * Tableau Dashboard resume: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume)
 * Tableau Interactive Dashboard: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume)
 
+### Portfolio Projects
 
+#### Flight Data Analysis & Delay Prediction 
+
+#### Food Platform Marketing - Data Analysis
+
+#### Olympics Dataset Analysis
+
+#### Tableau
+
+My Tableau Public account -----> [go to Tableau..](https://public.tableau.com/app/profile/abilasha.vediappan)
