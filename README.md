@@ -16,7 +16,7 @@ In addition to my technical skills, I am confident on my critical thinking and p
 
 View/Download my Resume : [Abilasha Vediappan](https://github.com/AbilashaV/abilashavediappan.github.io/blob/main/AV%20resume.pdf)
 
-Tableau Dashboard resume: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume)
-Tableau Interactive Dashboard: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume)
+* Tableau Dashboard resume: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume)
+* Tableau Interactive Dashboard: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume)
 
 
