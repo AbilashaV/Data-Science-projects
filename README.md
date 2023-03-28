@@ -14,9 +14,9 @@ Through my own interest learnt Data Science through various courses and projects
 
 In addition to my technical skills, I am confident on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, and to identify key issues and opportunities in the data for any business questions/needs.
 
-My Resume : https://github.com/AbilashaV/abilashavediappan.github.io/blob/main/AV%20resume.pdf
+View/Download my Resume : [Abilasha Vediappan](https://github.com/AbilashaV/abilashavediappan.github.io/blob/main/AV%20resume.pdf)
 
-Tableau Dashboard: https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume
-Tableau Interactive Dashboard: https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume
+Tableau Dashboard resume: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume)
+Tableau Interactive Dashboard: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume)
 
 
