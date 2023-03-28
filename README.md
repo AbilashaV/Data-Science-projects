@@ -36,3 +36,8 @@ View/Download my Resume : [Abilasha Vediappan](https://github.com/AbilashaV/abil
 My Tableau Public account -----> [go to Tableau..](https://public.tableau.com/app/profile/abilasha.vediappan)
 
 ## Certificates
+
+* [Supply Chain Fundamentals](https://courses.edx.org/certificates/8cff53fce5d542469eeb78114b7a13fa) (May 2016) (edX - MITx)
+* [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/4c92618f0fda4ce2846a58da36e28bca) (Jan 2022) (edX - HarvardX)
+* [Introduction to Data Science](https://courses.edx.org/certificates/6ef218871747425ca36414d133d3c99b) (Sept 2022) (edX - IBM)
+* [SQL for Data Science](https://courses.edx.org/certificates/cfa0069c4a1a481c9fd4f2176b5e4b1d) (Oct 2022) (edX - IBM)
