@@ -1,7 +1,14 @@
-# abilashavediappan Data Analysis Portfolio
+# Data Analysis Portfolio
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+#### About Me
 
-Please feel free to take these and run with them. Make them your own and find you own insights
+Hi, Hello !! I am Abilasha (Abi). I have technical background and hold a Master of Science degree in Supply Chain Management from National University Singapore (NUS). I have 7+ years of experience in Supply Chain & Data Analysis.  I have handled large datasets, various ETL tools written SQL queries,designed Tableau dashbords. 
 
-I really do hope this is helpful and helps you land that dream job! :D
+Over all these years I have created many interactive supply chain control tower dashboards in Tableau. I love creating vizzes which are simple and interactive for customer needs.
+
+Through my own interest learnt Data Science through various courses and projects and comfortable working with Python and doing EDA & prediction from any datasets. 
+
+This repository serves to showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+
+My Resume : 
+
