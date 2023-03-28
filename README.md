@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-### About Me
+## About Me
 
 Hi, Hello !! I am Abilasha (Abi). Welcome to my Portfolio!!
 
@@ -19,14 +19,20 @@ View/Download my Resume : [Abilasha Vediappan](https://github.com/AbilashaV/abil
 * Tableau Dashboard resume: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappanResumeCV_16799293723250/Resume)
 * Tableau Interactive Dashboard: [Abilasha Vediappan Tableau](https://public.tableau.com/app/profile/abilasha.vediappan/viz/AbilashaVediappan/Resume)
 
-### Portfolio Projects
+## Portfolio Projects
 
-#### Flight Data Analysis & Delay Prediction 
+### Data Analysis Projects
 
 #### Food Platform Marketing - Data Analysis
 
 #### Olympics Dataset Analysis
 
-#### Tableau
+### Data Science Projects
+
+#### Flight Data Analysis & Delay Prediction 
+
+## Tableau Vizzes
 
 My Tableau Public account -----> [go to Tableau..](https://public.tableau.com/app/profile/abilasha.vediappan)
+
+## Certificates
